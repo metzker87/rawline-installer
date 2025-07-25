@@ -17,11 +17,11 @@ cd rawline-installer
 bash instalar_fontes.sh
 ```
 
-## Se baixar manualmente 
+## Se baixar manualmente o .zip
 
 ```bash
 cd ~/Downloads
-unzip rawline-installer.zip
-cd rawline-installer
+unzip rawline-installer-main.zip
+cd rawline-installer-main
 bash instalar_fontes.sh
 ```
