@@ -1,0 +1,9 @@
+# Arquivos temporários
+*.log
+*.bak
+*.swp
+*~
+
+# Diretório temporário usado no script
+rawline_installer_tmp/
+tmp/
